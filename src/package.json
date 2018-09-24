@@ -1,6 +1,6 @@
 {
   "name": "botbuilder-greeting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A BotBuilder middleware to configure initial greeting",
   "main": "botbuildergreeting.js",
   "scripts": {
