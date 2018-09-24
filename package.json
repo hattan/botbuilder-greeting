@@ -1,0 +1,23 @@
+{
+  "name": "botbuilder-greeting",
+  "version": "1.0.0",
+  "description": "A BotBuilder middleware to configure initial greeting",
+  "main": "botbuildergreeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hattan/botbuilder-greeting.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "bots"
+  ],
+  "author": "Hattan Shobokshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hattan/botbuilder-greeting/issues"
+  },
+  "homepage": "https://github.com/hattan/botbuilder-greeting#readme"
+}
