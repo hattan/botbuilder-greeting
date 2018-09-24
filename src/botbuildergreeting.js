@@ -12,7 +12,7 @@ module.exports = class BotGreeting{
     }
 
     isUserJoinEvent(context){
-        return context.activity.type = "conversationUpdate" && context.activity.membersAdded && context.activity.membersAdded.length > 0;
+        return context.activity.type == "conversationUpdate" && context.activity.membersAdded && context.activity.membersAdded.length > 0;
       }
       
     handleNewUser(context){
