@@ -6,7 +6,7 @@ This is a middleware responds to a conversationUpdate activity type where a new 
 
 ### Installation
 
-npm install botbuilder-greeting
+```npm install botbuilder-greeting```
 
 ### Usage
 
